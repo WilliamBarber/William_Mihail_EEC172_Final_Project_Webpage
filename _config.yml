@@ -1,4 +1,6 @@
-theme: jekyll-theme-cayman
+remote_theme: cotes2020/jekyll-theme-chirpy@v7.4.1
+plugins:
+- jekyll-remote-theme 
 title: null
 name: Dreamo Alarm Clock
 description: William Barber and Mihail Marinov EEC 172 Final Project
