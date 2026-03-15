@@ -1,7 +1,7 @@
 ## William Barber and Mihail Marinov
 ### EEC 172 Winter 2026
 
-![alt text](image.png)
+![A Kleenex tissue box on its side, with an OLED screen on the front, an arcade-style button on top, and an IR reciever and photoresistor flanking the button on either side](image.png)
 
 ## Overview
 
@@ -25,4 +25,4 @@ Dreamo is an internet-enabled alarm clock featuring automatic synchronization an
 - TODO (from report)
 
 ## Demonstration
-<video controls src="Demo_Video_Compressed.mp4" title="Dreamo Video Demonstration"></video>
+<p><video controls src="Demo_Video_Compressed.mp4" title="Dreamo Video Demonstration"></video></p>
