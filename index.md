@@ -15,7 +15,7 @@ Dreamo is an internet-enabled alarm clock featuring automatic synchronization an
   - Alarms and tone selection synchronized to the cloud
 - Configurable alarm sound
   - 3 tone options
-- Flashing light and screen for visual as well as audible cues 
+- Flashing light and screen for visual alarm cue
 - Press to dismiss, bump to snooze
 - Multiple alarms supported
   - Configurable recurrence per alarm: once, daily, weekdays, or weekends
@@ -23,6 +23,8 @@ Dreamo is an internet-enabled alarm clock featuring automatic synchronization an
   - Brightness of screen matches that of environment
 
 ## Detailed Description
+
+- TODO (from report)
 
 ## Demonstration
 <video controls src="Demo_Video_Compressed.mp4" title="Dreamo Video Demonstration"></video>
