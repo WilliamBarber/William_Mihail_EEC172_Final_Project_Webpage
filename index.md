@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Dreamo Alarm Clock
 
 ## William Barber and Mihail Marinov
