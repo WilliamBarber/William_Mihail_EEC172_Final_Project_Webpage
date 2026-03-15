@@ -1,9 +1,3 @@
----
-layout: default
----
-
-# Dreamo Alarm Clock
-
 ## William Barber and Mihail Marinov
 ### EEC 172 Winter 2026
 
